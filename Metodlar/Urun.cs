@@ -8,7 +8,7 @@ namespace Metodlar
 {
     public class Urun
     {
-        // property == urun özelliği demek 
+        // property == urun özelliği demek bu classda sadece urun özellikleri eklenmişdir
         public int Id { get; set; }
         public string Adi { get; set; }
         public double Fiyat { get; set; }

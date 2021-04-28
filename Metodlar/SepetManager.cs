@@ -14,6 +14,9 @@ namespace Metodlar
     /// <param name="urun"></param>
         public void Ekle(Urun urun) // Urun urun parametreleri ' dir
         {
+
+
+
             Console.WriteLine("Sepete eklendi : " + urun.Adi);
         }
     }
