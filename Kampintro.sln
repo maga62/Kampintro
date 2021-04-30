@@ -13,13 +13,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metodlar", "Metodlar\Metodl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{6ECE4C5A-ADFF-4E5D-BD22-10F1D38E13D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{52B49386-59D5-45EB-89A4-33CB6572CB59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{52B49386-59D5-45EB-89A4-33CB6572CB59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Genericsintro", "Genericsintro\Genericsintro.csproj", "{FC0A4560-2174-4803-9D6B-91D8F2EF844C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Genericsintro", "Genericsintro\Genericsintro.csproj", "{FC0A4560-2174-4803-9D6B-91D8F2EF844C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oop2", "Oop2\Oop2.csproj", "{AE61CA1E-6AF3-48C9-9E3C-59F3023C6D0F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oop2", "Oop2\Oop2.csproj", "{AE61CA1E-6AF3-48C9-9E3C-59F3023C6D0F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oop3", "Oop3\Oop3.csproj", "{3F4CAEEB-88F8-4226-B830-9BD9FE4E0B43}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oop3", "Oop3\Oop3.csproj", "{3F4CAEEB-88F8-4226-B830-9BD9FE4E0B43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProject", "GameProject\GameProject.csproj", "{74246890-A9D6-4F03-83D5-0F92B9466B67}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{3F4CAEEB-88F8-4226-B830-9BD9FE4E0B43}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F4CAEEB-88F8-4226-B830-9BD9FE4E0B43}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F4CAEEB-88F8-4226-B830-9BD9FE4E0B43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74246890-A9D6-4F03-83D5-0F92B9466B67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74246890-A9D6-4F03-83D5-0F92B9466B67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74246890-A9D6-4F03-83D5-0F92B9466B67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74246890-A9D6-4F03-83D5-0F92B9466B67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
